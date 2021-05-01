@@ -1,0 +1,14 @@
+{
+  "script_hosts": [
+    "*.coinbase.com",
+    "googleads.g.doubleclick.net",
+    "www.google-analytics.com",
+    "www.googleadservices.com",
+    "www.googletagmanager.com"
+  ],
+  "xhr_hosts": ["sessions.coinbase.com", "www.google-analytics.com"],
+  "websocket_hosts": [],
+  "webworker_hosts": [],
+  "obfuscated_script_hosts": ["assets.coinbase.com"],
+  "suspicious_script_hosts": ["*.coinbase.com"]
+}
